@@ -1,0 +1,1 @@
+/Users/thokle/larvelprojects/simplecoaching/app/views/coaches/show.blade.php
